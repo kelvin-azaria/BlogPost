@@ -1,3 +1,6 @@
+# Blog Post
+This is just an app that I've made just to study the basics of laravel
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
